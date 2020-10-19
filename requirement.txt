@@ -1,1 +1,3 @@
 Here I am sending 2 file. In which one file contain the whole mail inbox fetching program. And second contain the first 5 mail fetching program.    
+
+In this progarm first you go to your gmail account and turn on the less secure app and enable the IMAP features and then go to the https://developers.google.com/gmail/api/ website and download the credential.json file after completing all this process then you excute the above file.
